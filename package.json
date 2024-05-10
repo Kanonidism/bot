@@ -1,0 +1,20 @@
+{
+  "name": "myyyyyyyyyyyyyy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kappa",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.6.0",
+    "discord.js": "^13.17.1",
+    "mongodb": "^6.6.1",
+    "mongoose": "6.5",
+    "quick.db": "^9.1.7",
+    "spotifydl-core": "^0.2.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
